@@ -1,0 +1,29 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeGirl0511/ReadME.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeGirl0511/ReadME/issues"
+  },
+  "homepage": "https://github.com/CodeGirl0511/ReadME#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "inde.js": "^1.0.0",
+    "index.js": "0.0.3",
+    "inquirer": "^7.3.1",
+    "node": "^14.5.0",
+    "package.json": "^2.0.1"
+  }
+}
