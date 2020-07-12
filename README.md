@@ -3,7 +3,7 @@
         
  ## Description 
         
-Command line application that creates a read me file with the user input given.  
+This command line application helps users create a read me file. 
         
  
         
@@ -14,14 +14,32 @@ Command line application that creates a read me file with the user input given.
         
  * [Installation](#installation) 
         
+ * [Usage](#usage) 
+        
+ * [Contributing](#contributing) 
+        
+ * [Tests](#tests) 
+        
  * [Questions](#questions) 
         
  * [License](#license) 
         
  ## Installation 
         
- Download Package.json along with index.js to run the application.
+ npm install  
       
+        
+ ## Usage
+        
+ install the dependencies in package.json
+        
+ ## Contributing
+        
+ follow the prompt
+        
+ ## Tests
+        
+ node index.js
         
  ## Questions
         
