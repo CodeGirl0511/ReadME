@@ -1,13 +1,13 @@
 ![GitHub license](https://github.com/CodeGirl0511/ReadME/blob/master/LICENSE)
-# readme
+# ReadME
         
  ## Description 
         
-This command line application helps users create a read me file. 
+This project is a command line project that helps me create a read me file 
         
  
         
- [View Deployed Project](https://github.com/codegirl0511/readme)
+ [View Deployed Project](https://github.com/Codegirl0511/readme)
         
         
  ## Table of Contents 
@@ -26,20 +26,20 @@ This command line application helps users create a read me file.
         
  ## Installation 
         
- npm install  
+ npm install 
       
         
  ## Usage
         
- install the dependencies in package.json
+ This repo help you create a read me in a very short amount of time. 
         
  ## Contributing
         
- follow the prompt
+ please provide answers to all the questions being asked
         
  ## Tests
         
- node index.js
+ node index
         
  ## Questions
         
